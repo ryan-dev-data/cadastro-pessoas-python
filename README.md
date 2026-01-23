@@ -7,24 +7,37 @@ O sistema realiza o cadastro de pessoas a partir da entrada de nome e idade, arm
 Ao final do cadastro, o programa apresenta estatísticas simples relacionadas às idades informadas, permitindo uma análise básica do perfil do público cadastrado.
 
 ⚙️ Funcionalidades
+
 Cadastro de pessoas (nome e idade)
+
 Contagem de maiores e menores de idade
+
 Cálculo de porcentagens
+
 Estatísticas básicas:
+
 Média de idade
+
 Maior idade
+
 Menor idade
 
 Distribuição etária:
+
 Menores de idade
+
 Adultos
+
 Idosos
+
 Análise final do perfil etário do público
 
 🛠️ Tecnologias utilizadas
+
 Python 3
 
 ▶️ Como executar o projeto
+
 1.Clone o repositório:
 Bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
