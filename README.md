@@ -54,6 +54,6 @@ python main.py
 Projeto desenvolvido para consolidar os fundamentos de Python e introduzir conceitos de análise de dados, como contagem, porcentagens e estatísticas descritivas simples, como parte do plano de estudos para a área de dados.
 
 📌 Status do projeto
-✔ Projeto finalizado
+
 ✔ Projeto finalizado
 
